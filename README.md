@@ -10,7 +10,7 @@ Final-year Software Engineering student with hands-on experience building AI-pow
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jaithsandiv&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=jaithsandiv&theme=radical&hide_border=true)<br/>
-<!--![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaithsandiv&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jaithsandiv&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://komarev.com/ghpvc/?username=jaithsandiv&icon=4&color=0)](https://visitcount.itsvg.in)
